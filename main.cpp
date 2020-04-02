@@ -3,7 +3,8 @@
 #include<iostream>
 #include "vector.h"
 #include "data_set.h"
-//#include "metrics.h"
+#include "matrix.h"
+#include "vector.h"
 
 int main(int argc, char const *argv[])
 {
